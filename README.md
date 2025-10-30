@@ -9,7 +9,7 @@ Built with **SwiftUI** and **Stripe PaymentSheet**, the app allows users to:
 ## 📱 HPay - DEMO
 
 <p align="center">
-  <video src="https://github.com/ShathaMK/HPay_Snbla_Assessment/raw/main/HPay/Demo/HPay-Demo.mp4" width="80%" controls></video>
+        <iframe width="560" height="315" src="https://youtube.com/shorts/mt5v1YNgEKo" frameborder="0" allowfullscreen></iframe>
 </p>
 
 
