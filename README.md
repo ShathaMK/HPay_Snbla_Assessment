@@ -1,4 +1,4 @@
- # 🪙 HPay — Snbla Challenge  
+ # 💳 HPay — Snbla Challenge  
 
 A lightweight iOS wallet app inspired by **HungerStation’s HPay** experience.  
 Built with **SwiftUI** and **Stripe PaymentSheet**, the app allows users to:
