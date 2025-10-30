@@ -9,7 +9,9 @@ Built with **SwiftUI** and **Stripe PaymentSheet**, the app allows users to:
 ## 📱 HPay - DEMO
 
 <p align="center">
-        <iframe width="560" height="315" src="https://youtube.com/shorts/mt5v1YNgEKo" frameborder="0" allowfullscreen></iframe>
+
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/mt5v1YNgEKo/maxresdefault.jpg)](https://youtube.com/shorts/mt5v1YNgEKo)
 </p>
 
 
